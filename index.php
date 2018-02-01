@@ -12,7 +12,7 @@
 														
 														<source src="mm.mp4" type="video/mp4">
 														
-														Your browser does not support the video tag.
+														Your browser does not support the video tag. Dodat tekst u prvoj promeni1
 													
 													</video>
 												</div>
