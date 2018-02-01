@@ -78,7 +78,7 @@
 								<div class="c-header-home_text">
 									<div class="c-header-home_container o-container js-parallax" data-speed="2" data-position="top" data-target="#js-header">
 									<!--	<h5 class="c-header-home_heading -full" style="font-size: 30pt">IZRADA I REKONSTRUKCIJA RUDARSKIH MAŠINA I SISTEMA, AUTOMATIZACIJA SISTEMA UPRAVLJANJA</h5> -->
-										
+										aaaaaa
 										<h1 class="c-header-home_heading -full">RUDARSKE MAŠINE I SISTEMI</h1>
 										<h3>OPREMA I MAŠINE U RUDARSTVU</h3>
 										<a class="c-header-home_subheading -load o-hsub -link" href="rudarstvo.php">
@@ -224,3 +224,4 @@
 						</div>
 					</header>
 					
+ssssssssssssss
